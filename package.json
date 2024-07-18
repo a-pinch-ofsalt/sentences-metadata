@@ -1,0 +1,19 @@
+{
+  "name": "sentences-metadata",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-pinch-ofsalt/sentences-metadata.git"
+  },
+  "author": "Franklin Hiciano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-pinch-ofsalt/sentences-metadata/issues"
+  },
+  "homepage": "https://github.com/a-pinch-ofsalt/sentences-metadata#readme",
+  "description": ""
+}
